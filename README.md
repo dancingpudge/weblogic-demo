@@ -1,2 +1,2 @@
-# webservicesDataPush-Demo
-push data to webservices by java
+# weblogicDataPush-Demo
+push data to weblogic by java
